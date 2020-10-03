@@ -27,14 +27,15 @@ Here are some ideas to get you started:
 [<img align="left" alt="brijesh | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
 <br />
 
+
+
  ###  Languages  C , C++ ,Java ,HTML ,CSS ,SQL
  ### Tools:VS Code, Unity3D ,Android Studio 
  
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BURFAL18)](https://github.com/BURFAL18/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BURFAL18&layout=compact)](https://github.com/BURFAL18/github-readme-stats)
 </details>
 
 <details>
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
 [![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=BURFAL18)](https://github.com/BURFAL18/github-readme-stats)
 
 </details>
+
 
 
 [twitter]: https://twitter.com/BrijeshBurfal

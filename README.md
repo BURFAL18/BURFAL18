@@ -29,8 +29,7 @@ Here are some ideas to get you started:
 
 
 
- ###  Languages  C , C++ ,Java ,HTML ,CSS ,SQL
- ### Tools:VS Code, Unity3D ,Android Studio 
+ ###  Languages and Tools   C , C++ ,Java ,HTML ,CSS ,SQL ,Git, Bash , VS Code, Unity3D ,Android Studio, Github
  
 <br />
 <br />

@@ -11,7 +11,6 @@ I am  currently at my third year of Engineering 👨🏽‍💻, Beside's progra
 
 
 ### Connect with me:
-
 [<img align="left" alt="brijesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="brijesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="brijesh | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
@@ -20,8 +19,9 @@ I am  currently at my third year of Engineering 👨🏽‍💻, Beside's progra
 
 
  ###  Languages,Libraries ,Frameworks & Tools   
- C , C++ ,Java ,HTML ,CSS ,SQL ,Git, Bash ,Firebase, VS Code, Unity3D ,Android Studio, Github
+ C , C++ ,JavaScript, ReactJs ,HTML ,CSS3 ,SQL ,Git, Bash ,Firebase, VS Code, Unity3D ,Android Studio, Github
  <br/>
+ <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg"></code>
  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png"></code>
@@ -31,6 +31,8 @@ I am  currently at my third year of Engineering 👨🏽‍💻, Beside's progra
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"></code>
 
 
 <br />
@@ -43,11 +45,7 @@ I am  currently at my third year of Engineering 👨🏽‍💻, Beside's progra
   
   <summary>: GitHub Stats</summary>
 
-[![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=BURFAL18)](https://github.com/BURFAL18/github-readme-stats)
-
-</details>
-
-
+![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=BURFAL18&hide=["issues"]&show_icons=true)
 
 [twitter]: https://twitter.com/BrijeshBurfal
 [linkedin]: https://www.linkedin.com/in/brijesh-burfal/

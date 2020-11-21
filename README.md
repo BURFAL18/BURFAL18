@@ -1,22 +1,15 @@
 ### Hi there , I'm Brijesh Burfal 👋
 
+I am a React Js Web Developer 🚀 from India, currently, at my third year of Engineering  ,Freelancer 👨🏽‍💻, Beside's programming, I love to travel and explore new places.
+
 <!--
 **BURFAL18/BURFAL18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Some more stuff **
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning AR and BLOCKCHAIN
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
 - 🌱 I’m currently learning AR and BlockChain 
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: brijeshb.it18@nsut.ac.in
 
 
@@ -26,11 +19,20 @@ Here are some ideas to get you started:
 [<img align="left" alt="brijesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="brijesh | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
 <br />
+<br />
 
+**Languages,Libraries,Frameworks & Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
- ###  Languages and Tools   C , C++ ,Java ,HTML ,CSS ,SQL ,Git, Bash , VS Code, Unity3D ,Android Studio, Github
- 
+ C , C++ ,JavaScript ,React,HTML ,CSS3 ,NodeJs , bootstrap ,SQL ,Git, Bash , VS Code, Unity3D ,Android Studio,SublimeText, Github
 <br />
 <br />
 
@@ -41,7 +43,11 @@ Here are some ideas to get you started:
   
   <summary>: GitHub Stats</summary>
 
+![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=BURFAL18&show_icons=true&hide_border=true)
+
+
 [![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=BURFAL18)](https://github.com/BURFAL18/github-readme-stats)
+
 
 </details>
 

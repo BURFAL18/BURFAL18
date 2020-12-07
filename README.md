@@ -11,9 +11,12 @@ I am  currently at my third year of Engineering 👨🏽‍💻, Beside's progra
 
 
 ### Connect with me:
-[<img align="left" alt="brijesh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="brijesh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="brijesh | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+
+[<img align="left" alt="brijesh | Twitter" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="brijesh | LinkedIn" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="brijesh | Dev" width="27px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev]
+[<img align="left" alt="brijesh | Quora" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+
 <br />
 
 
@@ -50,3 +53,4 @@ I am  currently at my third year of Engineering 👨🏽‍💻, Beside's progra
 [twitter]: https://twitter.com/BrijeshBurfal
 [linkedin]: https://www.linkedin.com/in/brijesh-burfal/
 [quora]: https://www.quora.com/profile/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9C%E0%A5%87%E0%A4%B6-Brijesh-Burfal
+[dev]:https://dev.to/brijeshburfal

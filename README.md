@@ -36,13 +36,15 @@
 **TERMINAL** , **POSTMAN** , **GIT** , **HEROKU**,  **NETLIFY** <br>
   <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">    <a href="https://postman.com" target="_blank">  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJkGIRgfzgriqwYAkds8K-Mbh5cMSXQsWvHg&usqp=CAU"/>  </p>
  <br />
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BURFAL18&layout=compact)](https://github.com/BURFAL18/github-readme-stats)
+ <br/>
+![Brijesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BURFAL18&show_icons=true&count_private=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BURFAL18&layout=compact)](https://github.com/BURFAL18/github-readme-stats)
-</details>
 <details>
-  <summary>: GitHub Stats</summary>
-![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=BURFAL18&hide=["issues"]&count_private=true&show_icons=true)
 
+ 
+ 
 [twitter]: https://twitter.com/BrijeshBurfal
 [linkedin]: https://www.linkedin.com/in/brijesh-burfal/
 [quora]: https://www.quora.com/profile/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9C%E0%A5%87%E0%A4%B6-Brijesh-Burfal

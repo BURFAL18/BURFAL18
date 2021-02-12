@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning  BlockChain & AR.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: brijeshb.it18@nsut.ac.in
+- ![](https://komarev.com/ghpvc/?username=BURFAL18&color=green)
 
 ### Connect with me:
 
@@ -40,10 +41,12 @@
 </details>
 <details>
   <summary>: GitHub Stats</summary>
- 
-![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=BURFAL18&hide=["issues"]&show_icons=true)
+![Brijesh's github stats](https://github-readme-stats.vercel.app/api?username=BURFAL18&hide=["issues"]&count_private=true&show_icons=true)
 
 [twitter]: https://twitter.com/BrijeshBurfal
 [linkedin]: https://www.linkedin.com/in/brijesh-burfal/
 [quora]: https://www.quora.com/profile/%E0%A4%AC%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%9C%E0%A5%87%E0%A4%B6-Brijesh-Burfal
 [dev]:https://dev.to/brijeshburfal
+
+
+
